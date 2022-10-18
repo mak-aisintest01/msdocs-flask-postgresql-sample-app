@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Naran-WebApp-Test01'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_82EB027888B24451AD3C4614E539EF39 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_851D94FB82DF46C291804040268FA5F5 }}
